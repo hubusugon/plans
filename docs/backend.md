@@ -63,7 +63,9 @@ Go语言本身相比起Java来说，要更加的轻量级，语法简洁，且�
 - 对Spring、SpringBoot基本原理与特性有基本了解；
 - 对List、Set、Map的底层原理有基本了解；
 - 对JVM、GC等基层原理有基本了解；
-- 主要技术栈: web框架(springboot)，orm框架(Mybatis-plus)，微服务框架(springcloud)
+- 熟悉高并发场景并了解解决方法；
+- 熟悉微服务场景下如何解决java工程问题
+- 主要技术栈: web框架(springboot)，orm框架(Mybatis-plus)，微服务框架(springcloud),rpc框架(grpc-Dubbo)
 
 
 
