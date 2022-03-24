@@ -59,7 +59,6 @@
 
 ### 网络
 
-- 课程 浏览器工作原理与实践(收费课程)：[https://time.geekbang.org/column/intro/100033601](https://gitee.com/link?target=https%3A%2F%2Ftime.geekbang.org%2Fcolumn%2Fintro%2F100033601)
 - 课程 趣谈网络协议(收费课程)：[https://time.geekbang.org/column/intro/100007101](https://gitee.com/link?target=https%3A%2F%2Ftime.geekbang.org%2Fcolumn%2Fintro%2F100007101)
 
 一些博客文章
